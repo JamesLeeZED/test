@@ -1,0 +1,12 @@
+[
+  {
+    "homeId": "TYPE_04",
+    "lightIntensity": 0.4,
+    "ambientColor": {
+      "r": 0.4980392,
+      "g": 0.5137254,
+      "b": 0.545098
+    },
+    "environmentTexture": "00_ReCap_Livingroom.env"
+  }
+]
